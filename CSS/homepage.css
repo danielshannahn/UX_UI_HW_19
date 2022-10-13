@@ -1,0 +1,43 @@
+.aboutme {
+    width: 618px;
+    height: 245px;
+    left: 206px;
+    top: 208px; 
+    font-family: 'Montserrat', sans-serif;
+    font-style: light;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 46px;
+}
+
+.button {
+    background-color: transparent;
+    color: black;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+    font-weight: 900;
+    border: transparent;
+    display: flex;
+}
+.heroimage{
+    width: 436px;
+    height: 457px;
+}
+section {
+    display: flex;
+    height: 1000px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.picture-section {
+    width:25%
+    
+}
+.filler1{
+    width: 20%;
+}
+.filler2{
+    width: 20%;
+}

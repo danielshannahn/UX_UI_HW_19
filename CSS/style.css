@@ -1,0 +1,52 @@
+/* This is for Navigation and Footer Purposes */
+body {
+    background: linear-gradient(180deg, #4B4A37 10.42%, rgba(121, 120, 105, 0.81) 60.94%, rgba(171, 176, 162, 0) 100%);    
+}
+
+.inline_block {
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+
+.navigation {
+    width: 73%;
+    margin-left: auto;
+}
+
+.inline{
+    display: inline;
+    margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    color: white;
+}
+
+.logo {
+    width: 150px;
+    padding: 1%;
+}
+
+.footer {
+    font-size: 32px;
+    text-align: center;
+    position: fixed;
+    left:0;
+    bottom: 0;
+    width: 100%;
+
+
+}
+.socialFooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 10%;
+    margin: auto;
+
+}

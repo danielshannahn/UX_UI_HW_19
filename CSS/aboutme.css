@@ -1,0 +1,12 @@
+.introheader{
+    font-size: 40px;
+}
+.aboutHannah{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    min-height: 700px;
+    font-size: 38px;
+}

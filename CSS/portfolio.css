@@ -1,0 +1,38 @@
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 40px;
+}
+.casestudies{
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+}
+.casestudy{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    height: 100%;
+    background-color: rgba(242,242,242,0.75);
+    border-radius: 64px;
+    padding-left: 5%;
+    min-height: 500px;
+}
+.column {
+    width: 50%;
+    font-size: 38px
+}
+.Edpicture{
+    margin-top:5%
+}
+
+.filler4portfolio{
+    height: 50px;
+}
+
+.saleseeimage{
+    margin: 5%;
+    height: 400px;
+    align-items: center;
+}
