@@ -24,9 +24,9 @@
     width: 436px;
     height: 457px;
 }
-section {
+.home-section {
     display: flex;
-    height: 1000px;
+    height: 450px;
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;

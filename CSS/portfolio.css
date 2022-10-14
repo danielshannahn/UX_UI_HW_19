@@ -12,6 +12,8 @@ h2 {
 .casestudy{
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
     width: 60%;
     height: 100%;
     background-color: rgba(242,242,242,0.75);
@@ -20,10 +22,16 @@ h2 {
     min-height: 500px;
 }
 .column {
-    width: 50%;
-    font-size: 38px
+    width: 45%;
+    font-size: 38px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
 }
 .Edpicture{
+    width: 450px;
     margin-top:5%
 }
 
@@ -34,5 +42,4 @@ h2 {
 .saleseeimage{
     margin: 5%;
     height: 400px;
-    align-items: center;
 }
