@@ -7,7 +7,8 @@ h2 {
 .casestudies{
     display: flex;
     flex-direction: column;
-    height: 1000px;
+    margin: auto;
+    align-items: center;
 }
 .casestudy{
     display: flex;
