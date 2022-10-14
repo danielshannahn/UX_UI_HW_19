@@ -29,15 +29,15 @@ section {
     height: 1000px;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 .picture-section {
     width:25%
     
 }
 .filler1{
-    width: 20%;
+    width: 10%;
 }
 .filler2{
-    width: 20%;
+    width: 10%;
 }
