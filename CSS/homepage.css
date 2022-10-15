@@ -20,6 +20,9 @@
     border: transparent;
     display: flex;
 }
+.button:hover{
+    text-decoration: underline;
+}
 .heroimage{
     width: 436px;
     height: 457px;
