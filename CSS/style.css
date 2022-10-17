@@ -31,6 +31,10 @@ body {
 .inline:hover{
     text-decoration: underline;
 }
+
+a{
+    text-decoration: none;
+}
 .logo {
     width: 110px;
     padding: 1%;
