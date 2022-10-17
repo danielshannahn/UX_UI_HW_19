@@ -44,3 +44,22 @@
 .filler2{
     width: 10%;
 }
+@media(max-width:1482px){
+    .home-section{
+        flex-direction: column;
+        height: 100%;
+        align-items: center;
+    }
+    .picture-section{
+        width: 75%;
+        margin:auto;
+        margin-bottom: 100px;
+    }
+    .aboutme{
+        margin: auto;
+        text-align: center;
+    }
+    .button{
+        margin: auto
+    }
+}

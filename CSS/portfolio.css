@@ -54,3 +54,17 @@ p{
     margin: 5%;
     height: 400px;
 }
+
+@media(max-width: 1482px){
+    .casestudy{
+        flex-direction: column-reverse;
+        height: 100%;
+        align-items: center;
+        padding:10%;
+    }
+    .column{
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+}

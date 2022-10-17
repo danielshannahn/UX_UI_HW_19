@@ -64,3 +64,9 @@ a{
   #content-wrap {
     padding-bottom: 2.5rem;    /* Footer height */
   }
+  
+  @media(max-width: 1482px){
+    .socialFooter{
+        width: 25%
+    }
+  }
